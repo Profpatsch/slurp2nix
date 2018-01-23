@@ -1,0 +1,7 @@
+name: slurp2nix
+version: 0.0.0.0.1
+synopsis: It’s going to be glorious
+description: The Art of solving social problems with technical solutions
+maintainer: The Stack Maintainers <dont@us.com>
+license: BSD
+category: WeWin
